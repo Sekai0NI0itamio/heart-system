@@ -1,6 +1,6 @@
 # Heart System
 
-A lightweight, server-side permadeath mod for Minecraft 1.12.2 Forge. Every player has a heart count. Die and you lose one. Kill another player and you gain one. Reach zero hearts and you are permanently banned from the server.
+A lightweight, server-side permadeath mod for Minecraft 1.12.2 Forge. Every player has a heart count. Die and you lose one. Kill another player and you gain one. Reach zero hearts and you are permanently banned.
 
 No gimmicks. No altars. Just hearts.
 
@@ -24,3 +24,5 @@ Hearts are the **only** way to gain max health. Mob kills, items, and regenerati
 ---
 
 This github repository is auto created using itamio's Mod Compiler repository workflow.
+
+If this project is useful, consider giving it a star. It helps others discover the project and motivates continued development.
